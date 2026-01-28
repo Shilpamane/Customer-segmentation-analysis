@@ -27,8 +27,8 @@ Customer Segmentation is a key analytical technique used to group customers base
 
 * Customer transaction and demographic dataset
 * Common attributes include:
-
-  *Invoice no
+  
+  * Invoice no
   * Customer ID
   * Age
   * Gender
